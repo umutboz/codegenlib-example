@@ -1,7 +1,8 @@
 # codegenlib-example
 Example project using codegenlib library
 ### example
-```
+```python
+
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
